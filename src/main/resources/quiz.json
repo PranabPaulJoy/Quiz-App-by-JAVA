@@ -1,0 +1,242 @@
+[
+  {
+    "Input option 4: ": "State Transition",
+    "Input option 3: ": "Branch Testing",
+    "AnswerKey": "3",
+    "question": "What is not the blackbox testing strategy?",
+    "Input option 2: ": "Boundary Value Testing",
+    "Input option 1: ": "Equivalence Partitioning"
+  },
+  {
+    "Input option 4: ": "Regression Testing",
+    "Input option 3: ": "Sanity Testing",
+    "AnswerKey": "1",
+    "question": "Which testing is done by developer?",
+    "Input option 2: ": "Integration Testing",
+    "Input option 1: ": "Unit Testing"
+  },
+  {
+    "Input option 4: ": "a+b",
+    "Input option 3: ": "for nothing",
+    "AnswerKey": "4",
+    "question": "Why SQA is important?",
+    "Input option 2: ": "for quality purpose",
+    "Input option 1: ": "for business purpose"
+  },
+  {
+    "Input option 4: ": "mango people",
+    "Input option 3: ": "developers",
+    "AnswerKey": "3",
+    "question": "Who can do unit testing?",
+    "Input option 2: ": "testers",
+    "Input option 1: ": "users"
+  },
+  {
+    "Input option 4: ": "inspection",
+    "Input option 3: ": "peer review",
+    "AnswerKey": "2",
+    "question": "Which is not static testing?",
+    "Input option 2: ": "exploratory",
+    "Input option 1: ": "walkthrough"
+  },
+  {
+    "Input option 4: ": "test procedure planning",
+    "Input option 3: ": "while doing automation",
+    "AnswerKey": "4",
+    "question": "Test data planning is included when?",
+    "Input option 2: ": "Boundary value analysis",
+    "Input option 1: ": "Equivalent partitioning"
+  },
+  {
+    "Input option 4: ": "Unit Testing",
+    "Input option 3: ": "Load Testing",
+    "AnswerKey": "4",
+    "question": "Which is not part of system testing?",
+    "Input option 2: ": "Sanity Testing",
+    "Input option 1: ": "Regression Testing"
+  },
+  {
+    "Input option 4: ": "Adhoc Testing",
+    "Input option 3: ": "Decision table testing",
+    "AnswerKey": "3",
+    "question": "Which is whitebox testing technique?",
+    "Input option 2: ": "Boundary value testing",
+    "Input option 1: ": "Equivalent Partitioning"
+  },
+  {
+    "Input option 4: ": "Benchmark Testing",
+    "Input option 3: ": "Gorila Testing",
+    "AnswerKey": "3",
+    "question": "Which is functional testing?",
+    "Input option 2: ": "Security Testing",
+    "Input option 1: ": "Load Testing"
+  },
+  {
+    "Input option 4: ": "Inspection",
+    "Input option 3: ": "Peer review",
+    "AnswerKey": "2",
+    "question": "Which is not static testing?",
+    "Input option 2: ": "Exploratory Testing",
+    "Input option 1: ": "Walkthrough"
+  },
+  {
+    "Input option 4: ": "Defect",
+    "Input option 3: ": "Failure",
+    "AnswerKey": "3",
+    "question": "A deviation of actual result from the expected result to the end user is called?",
+    "Input option 2: ": "Bug",
+    "Input option 1: ": "Fault"
+  },
+  {
+    "Input option 4: ": "Maintenance Testing",
+    "Input option 3: ": "Component Testing",
+    "AnswerKey": "4",
+    "question": "The _______ testing should include operational tests of the new environment as well as of the changed software.",
+    "Input option 2: ": "Integration Testing",
+    "Input option 1: ": "System Testing"
+  },
+  {
+    "Input option 4: ": "8",
+    "Input option 3: ": "7",
+    "AnswerKey": "3",
+    "question": "How many principles are there in Software Testing?",
+    "Input option 2: ": "6",
+    "Input option 1: ": "5"
+  },
+  {
+    "Input option 4: ": "Orange",
+    "Input option 3: ": "Appium",
+    "AnswerKey": "2",
+    "question": "Which is user for Unit Testing?",
+    "Input option 2: ": "JUnit",
+    "Input option 1: ": "TestNG"
+  },
+  {
+    "Input option 4: ": "writing",
+    "Input option 3: ": "coding",
+    "AnswerKey": "4",
+    "question": "Which is not a part of STLC?",
+    "Input option 2: ": "design",
+    "Input option 1: ": "requirement analysis"
+  },
+  {
+    "Input option 4: ": "None of the mentioned",
+    "Input option 3: ": "Procedure Errors",
+    "AnswerKey": "2",
+    "question": "What is the key objective of Integration testing?",
+    "Input option 2: ": "Interface Errors",
+    "Input option 1: ": "Design Errors"
+  },
+  {
+    "Input option 4: ": "Alpha testing",
+    "Input option 3: ": "Greybox testing",
+    "AnswerKey": "1",
+    "question": "Which of the follwing testing is called Acceptance testing?",
+    "Input option 2: ": "Whitebox testing",
+    "Input option 1: ": "Beta testing"
+  },
+  {
+    "Input option 4: ": "None of the above",
+    "Input option 3: ": "White box testing",
+    "AnswerKey": "3",
+    "question": "__________ testing is used to check the code.",
+    "Input option 2: ": "Black box testing",
+    "Input option 1: ": "Grey box testing"
+  },
+  {
+    "Input option 4: ": "Project Initiation Note [PIN]",
+    "Input option 3: ": "Test Strategy",
+    "AnswerKey": "4",
+    "question": "Which of the following is not part of the Test document?",
+    "Input option 2: ": "Requirement Traceability Matrix [RTM]",
+    "Input option 1: ": "Test Case"
+  },
+  {
+    "Input option 4: ": "None of the above",
+    "Input option 3: ": "Basic path testing",
+    "AnswerKey": "1",
+    "question": "Which of the below testing is related to black-box testing?",
+    "Input option 2: ": "Code path analysis",
+    "Input option 1: ": "Boundary value analysis"
+  },
+  {
+    "Input option 4: ": "All of the above",
+    "Input option 3: ": "System testing",
+    "AnswerKey": "4",
+    "question": "What are the different levels of testing?",
+    "Input option 2: ": "Unit testing",
+    "Input option 1: ": "Integration testing"
+  },
+  {
+    "Input option 4: ": "Different Tools to perform Regression Testing",
+    "Input option 3: ": "Exit Criteria",
+    "AnswerKey": "1",
+    "question": "Impact Analysis help to decide which of the following testing describe below.",
+    "Input option 2: ": "How many more test cases need to written",
+    "Input option 1: ": "How much regression testing should be done"
+  },
+  {
+    "Input option 4: ": "Evaluating test criteria and reporting",
+    "Input option 3: ": "implementation and Execution",
+    "AnswerKey": "2",
+    "question": "Select which of the below is not a Fundamental Test Process?",
+    "Input option 2: ": "Requirement Analysis",
+    "Input option 1: ": "Test Planning"
+  },
+  {
+    "Input option 4: ": "Boundary value analysis",
+    "Input option 3: ": "State transition testing",
+    "AnswerKey": "2",
+    "question": "Which of the following techniques is NOT a black box technique?",
+    "Input option 2: ": "Linear Code Sequence and Jump",
+    "Input option 1: ": "Syntax testing"
+  },
+  {
+    "Input option 4: ": "Writing user manual",
+    "Input option 3: ": "Writing Testcase",
+    "AnswerKey": "3",
+    "question": "Which of the following is an example of a task that can be carried out as part of the test process?",
+    "Input option 2: ": "Assign task to QA team",
+    "Input option 1: ": "Requirement Analysis"
+  },
+  {
+    "Input option 4: ": "Regression Test",
+    "Input option 3: ": "Re-Test",
+    "AnswerKey": "3",
+    "question": "Developer fixed an issue and told you to the feature. What is the testing type?",
+    "Input option 2: ": "Integration Test",
+    "Input option 1: ": "Feature Test"
+  },
+  {
+    "Input option 4: ": "None of the above",
+    "Input option 3: ": "Both of the above",
+    "AnswerKey": "1",
+    "question": "Dynamic testing is mainly_______",
+    "Input option 2: ": "Verification Techniques",
+    "Input option 1: ": "Validation Techniques"
+  },
+  {
+    "Input option 4: ": "None of the above",
+    "Input option 3: ": "Design based testing",
+    "AnswerKey": "1",
+    "question": "Which of the following testing is also known as white-box testing?",
+    "Input option 2: ": "Error guessing technique",
+    "Input option 1: ": "Structural testing"
+  },
+  {
+    "Input option 4: ": "SQA & SQM",
+    "Input option 3: ": "SQI",
+    "AnswerKey": "1",
+    "question": "Quality Management in software engineering is also known as",
+    "Input option 2: ": "SQM",
+    "Input option 1: ": "SQA"
+  },
+  {
+    "Input option 4: ": "Testing Closure",
+    "Input option 3: ": "Deployment Phase",
+    "AnswerKey": "4",
+    "question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "Input option 2: ": "Requirement Phase",
+    "Input option 1: ": "Testing Phase"
+  }
+]
